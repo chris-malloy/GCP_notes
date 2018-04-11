@@ -1,6 +1,6 @@
 # Google Compute Engine - [Lab](https://codelabs.developers.google.com/codelabs/cp100-compute-engine/#1)
 
-## Run large scale workloads on virtual machines hosted on Google's infrastructure
+## IaaS Solution for Deploying VM Instances
 
 ### Deployment
 
