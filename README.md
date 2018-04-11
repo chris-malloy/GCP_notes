@@ -11,3 +11,4 @@
 ### Helpful Info
 
 * [Bucket Locations](https://cloud.google.com/storage/docs/bucket-locations)
+* [Choosing Compute Options](https://cloud.google.com/docs/choosing-a-compute-option#comparing_options)

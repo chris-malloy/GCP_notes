@@ -2,7 +2,7 @@
 
 ## Lets you run Container Images like Docker and Kubernetes
 
-### Setup Needed for Deployment
+### Deployment
 
 * enable Kubernetes API
 * configure zone
