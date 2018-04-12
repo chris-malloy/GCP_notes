@@ -12,3 +12,6 @@
 
 * [Bucket Locations](https://cloud.google.com/storage/docs/bucket-locations)
 * [Choosing Compute Options](https://cloud.google.com/docs/choosing-a-compute-option#comparing_options)
+* [GCP Pricing](https://cloud.google.com/products/calculator/)
+* [Google Cloud Classes](https://cloud.google.com/training/)
+* [Goolge Cloud Exams](https://cloud.google.com/certification/)
