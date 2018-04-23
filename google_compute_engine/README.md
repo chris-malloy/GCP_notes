@@ -68,6 +68,32 @@ Get the output of the serial port for the cp100 instance
 gcloud compute instances get-serial-port-output bookshelf
 ```
 
+View Information about your VM
+
+To see information about unused and used memory and swap space on your custom VM, run the following command:
+
+```shell
+free
+```
+
+To see details about the RAM installed on your VM, run the following command:
+
+```shell
+sudo dmidecode -t 17
+```
+
+To verify the number of processors, run the following command:
+
+```shell
+nproc
+```
+
+To see details about the CPUs installed on your VM, run the following command:
+
+```shell
+lscpu
+```
+
 ### Third Party Configuration Managament Tools
 
 * Puppet
